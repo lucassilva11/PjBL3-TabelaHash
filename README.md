@@ -2,7 +2,7 @@
 
 3° projeto do semestre: Implementação de uma tabela hash para armazenamento de chaves
 
-Desenvolvido por Lucas Silva Pinto.
+Desenvolvido por Lucas Silva Pinto e Arthur Carvalho.
 
 # Descrição do Projeto
 Projeto desenvolvido para a disciplina Resolução de Problemas Estruturados em Computação. 
